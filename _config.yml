@@ -6,10 +6,8 @@ description: Professional Portfolio
 baseurl: "/helinhenstridge.github.io" # the subpath of your site, e.g. /blog
 url: https://github.com/hzhenstridge/helinhenstridge.github.io
 author: Helin Henstridge
-street_address: 
 city: Santa Barbara
 state: CA
-zip_code: 
 country: United States of America
 phone: (951) 801-0501
 
