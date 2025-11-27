@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Research</h3>
 				</header>
 				<p>See past and current research projects!</p>
 				<ul class="actions">
