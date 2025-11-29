@@ -54,15 +54,15 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="/Projects" class="image">
+		<a href="/Publications" class="image">
 			<img src="{% link assets/images/projects.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Research Projects</h3>
+					<h3>Publications, Presentations, and Abstracts</h3>
 				</header>
-				<p>See past and current research projects!</p>
+				<p>See all publications, presentations, and conference abstracts!</p>
 				<ul class="actions">
 					<li><a href="/Projects" class="button">Learn more</a></li>
 				</ul>
