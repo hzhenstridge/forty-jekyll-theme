@@ -88,10 +88,7 @@ nav-menu: true
 </div>
 <section id="four">
     <div class="inner">
-        <header class="major">
-            <h2>Welcome!</h2>
-        </header>
-        <p>Helin's Resume</p>
+        <p>View Helin's resume here:</p>
 		
 		<ul class="actions">
     		<li>
