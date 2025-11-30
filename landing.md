@@ -38,7 +38,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="/Teaching" class="image">
+		<a href="/teaching" class="image">
 			<img src="{% link assets/images/fieldwork.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -48,13 +48,13 @@ nav-menu: true
 				</header>
 				<p>See past and current teaching experiences!</p>
 				<ul class="actions">
-					<li><a href="/Teaching" class="button">Learn more</a></li>
+					<li><a href="/teaching" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="/Publications" class="image">
+		<a href="/publications" class="image">
 			<img src="{% link assets/images/fieldwork1.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p>See all publications, presentations, and conference abstracts!</p>
 				<ul class="actions">
-					<li><a href="/Projects" class="button">Learn more</a></li>
+					<li><a href="/publications" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
