@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Teaching and Tutoring
+description: Helin's teaching and tutoring experiences
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
