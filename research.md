@@ -2,6 +2,7 @@
 layout: page
 title: Research
 image: assets/images/quickndirty_minerals_dLABdr.jpg
+image-position: center center
 nav-menu: true
 ---
 
