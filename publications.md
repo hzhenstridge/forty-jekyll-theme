@@ -3,6 +3,7 @@ layout: post
 title: Publications, Presentations, and Conference Abstracts
 description: Helin's publications, presentations, and conference abstracts.
 image: assets/images/paper.jpg
+image-position: center center
 nav-menu: true
 ---
 
