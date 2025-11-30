@@ -3,6 +3,7 @@ title: Helin Henstridge
 layout: landing
 description: 'Geophysics • Seismology • Physics • Teaching'
 image: assets/images/boat.jpg
+image-position: center center
 nav-menu: true
 ---
 
