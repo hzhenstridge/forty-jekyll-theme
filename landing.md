@@ -84,4 +84,20 @@ nav-menu: true
 	</div>
 </section>
 
+<!-- Four -->
 </div>
+<section id="four">
+    <div class="inner">
+        <header class="major">
+            <h2>Welcome!</h2>
+        </header>
+        <p>Helin's Resume</p>
+		
+		<ul class="actions">
+    		<li>
+				<a href="/Helin Henstridge - Resume.pdf" class="button">Download My Résumé</a>
+			</li>
+		</ul>
+		
+    </div>
+</section>
