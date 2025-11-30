@@ -3,6 +3,7 @@ layout: post
 title: Teaching and Tutoring
 description: Helin's teaching and tutoring experiences
 image: assets/images/dinosaur.jpg
+image-position: center center
 nav-menu: true
 ---
 
