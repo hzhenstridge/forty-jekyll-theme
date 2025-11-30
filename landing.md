@@ -2,7 +2,7 @@
 title: Helin Henstridge
 layout: landing
 description: 'Geophysics • Seismology • Physics • Teaching'
-image: assets/images/pic07.jpg #change this to a path for image of me
+image: assets/images/boat.jpg #change this to a path for image of me
 nav-menu: true
 ---
 
@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="/research" class="image">
-			<img src="{% link assets/images/seismic.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/quickndirty_minerals_dLABdr.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="/Teaching" class="image">
-			<img src="{% link assets/images/teaching.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/fieldwork.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -55,7 +55,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="/Publications" class="image">
-			<img src="{% link assets/images/projects.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/fieldwork1.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
